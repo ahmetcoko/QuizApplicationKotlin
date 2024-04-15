@@ -45,7 +45,12 @@ To get started with QuizMaster:
 2. Open the project in Android Studio.
 3. Run the application on an emulator or a physical device.
 
-## TO-DO 
+### Upcoming Features
+
+- **Database Connections**: We are planning to integrate database connectivity features in the upcoming releases. This will include configuring and optimizing database links for efficient data management and access.
+
+- **Login Interface**: A new login interface is also on the roadmap. This will enhance user authentication and provide a secure, user-friendly login process.
+
 
 
 
